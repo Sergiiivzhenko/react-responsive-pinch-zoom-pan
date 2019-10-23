@@ -1,5 +1,7 @@
 # react-responsive-pinch-zoom-pan
 
+Fork is made for customization of the double tap behaviour.
+
 A React component that adds pinch-zoom and pan capability to an `img` element. Both mobile and desktop browsers are supported. In desktop mode, you zoom with the mouse scrollwheel, and pan by dragging.
 
 On render, the zoom and pan values are applied using CSS transforms. 
