@@ -6,4 +6,5 @@ examples
 .prettierignore
 .vs
 .vscode
+.idea
 webpack.config.js
