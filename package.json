@@ -46,7 +46,7 @@
     "url-loader": "1.1.1",
     "webpack": "4.19.1",
     "webpack-cli": "^3.2.1",
-    "webpack-dev-server": "3.1.14"
+    "webpack-dev-server": "^3.1.14"
   },
   "author": "Sergii Ivzhenko",
   "homepage": "https://github.com/Sergiiivzhenko/react-responsive-pinch-zoom-pan",
@@ -55,9 +55,6 @@
     "url": "git@github.com:Sergiiivzhenko/react-responsive-pinch-zoom-pan.git"
   },
   "dependencies": {
-    "@fortawesome/fontawesome-svg-core": "^1.2.13",
-    "@fortawesome/free-solid-svg-icons": "^5.7.0",
-    "@fortawesome/react-fontawesome": "^0.1.4",
     "reselect": "^4.0.0",
     "warning": "^4.0.2"
   },
