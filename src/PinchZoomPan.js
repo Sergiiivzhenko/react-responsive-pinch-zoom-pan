@@ -503,7 +503,6 @@ export default class PinchZoomPan extends React.Component {
             : undefined;
 
         const containerStyle = {
-            width: '100%',
             height: '100%',
             overflow: 'hidden',
             touchAction: touchAction,
